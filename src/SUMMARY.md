@@ -1,4 +1,5 @@
 # Summary
+[Introduction](intro.md)
 
 # Setup Guide
 - [Getting Started](setup/getting-started.md)
